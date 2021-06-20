@@ -22,6 +22,7 @@
 
 ## Week 4
 
+- Data Science Pipeline
 - Web Scraping
 - Pandas
 - Discussion on Course Project Choice
