@@ -31,5 +31,4 @@
 
 - Matplotlib
 - Seaborn
-- Regular Expression
 - Weekly Assignment - 3 (Data Analysis Challenge)
