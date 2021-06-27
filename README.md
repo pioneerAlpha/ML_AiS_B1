@@ -32,3 +32,8 @@
 - Matplotlib
 - Seaborn
 - Weekly Assignment - 3 (Data Analysis Challenge)
+
+## Week 6
+
+- Regular Expression
+- Tableau
