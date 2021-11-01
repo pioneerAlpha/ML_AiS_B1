@@ -36,4 +36,4 @@
 ## Week 6
 
 - Regular Expression
-- Tableau
+- Data Visualization with Tableau
