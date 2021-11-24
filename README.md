@@ -37,3 +37,8 @@
 
 - Regular Expression
 - Data Visualization with Tableau
+
+## Week 7
+
+- Statistics Overview
+- Introduction to Machine Learning
