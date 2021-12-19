@@ -42,3 +42,22 @@
 
 - Statistics Overview
 - Introduction to Machine Learning
+## Week 8
+
+- linear regression Overview
+- predict using linear regression
+
+## Week 9
+
+- logistic Regression overview
+- coding section
+
+## Week 10
+
+- SVM overview
+- coding section
+
+## Week 11
+
+- Naive bayes classifier overview
+- coding section
